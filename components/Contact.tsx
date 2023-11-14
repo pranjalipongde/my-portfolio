@@ -68,10 +68,10 @@ const Contact = () => {
           <FaPaperPlane className="text-xs opacity-70 translate-all group-hover:traslate-x-1 group-hover:-translate-y-1" />
         </button>
       </form>
-      <p className="text-white text-lg">
+      {/* <p className="text-white text-lg">
         Portfolio is in working so contact senction may not work for now. You
         can contact me through given email.
-      </p>
+      </p> */}
     </motion.section>
   );
 };
